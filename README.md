@@ -1,6 +1,1 @@
-Minesweeper
-===========
-
-A c++ Minesweeper game
-
-Minesweeper lets you specify width, height, and number of mines. It also keeps track of how long you are taking.
+[![Run on Repl.it](https://repl.it/badge/github/civilian38/Minesweeper)](https://repl.it/github/civilian38/Minesweeper)
